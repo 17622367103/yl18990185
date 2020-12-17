@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e4017a96-e17a-4ed4-a64b-9c129c3ce966" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/java/com/example/myapplication/FirstActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/java/com/example/myapplication/LaunchImproveActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/java/com/example/myapplication/LoginActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/java/com/example/myapplication/LoginForgetActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/java/com/example/myapplication/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/java/com/example/myapplication/MainApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/java/com/example/myapplication/RegisterActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/java/com/example/myapplication/SearchResultActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/java/com/example/myapplication/ShoppingCartProActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/java/com/example/myapplication/ShoppingChannelActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/java/com/example/myapplication/ShoppingDetailActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/java/com/example/myapplication/TabHostActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/java/com/example/myapplication/adapter/CartAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/java/com/example/myapplication/adapter/GoodsAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/java/com/example/myapplication/adapter/ImagePagerAdapater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/java/com/example/myapplication/adapter/LaunchImproveAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/java/com/example/myapplication/adapter/LaunchSimpleAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/java/com/example/myapplication/adapter/RecyclerGridAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/java/com/example/myapplication/adapter/RecyclerStaggeredAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/java/com/example/myapplication/bean/CartInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/java/com/example/myapplication/bean/GoodsInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/java/com/example/myapplication/bean/UserInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/java/com/example/myapplication/constant/ImageList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/java/com/example/myapplication/database/CartDBHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/java/com/example/myapplication/database/GoodsDBHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/java/com/example/myapplication/database/UserDBHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/java/com/example/myapplication/fragment/DynamicFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/java/com/example/myapplication/fragment/LaunchFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/java/com/example/myapplication/util/DateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/java/com/example/myapplication/util/FileUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/java/com/example/myapplication/util/MenuUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/java/com/example/myapplication/util/SharedUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/java/com/example/myapplication/util/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/java/com/example/myapplication/util/ViewUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/java/com/example/myapplication/widget/BannerPager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/java/com/example/myapplication/widget/CustomDateDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/java/com/example/myapplication/widget/PagerIndicator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/java/com/example/myapplication/widget/RecyclerExtras.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/java/com/example/myapplication/widget/SpacesItemDecoration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/banner_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/banner_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/banner_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/banner_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/banner_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/ic_about.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/ic_app.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/ic_back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/ic_quit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/ic_refresh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/ic_search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/icon_point_c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/icon_point_n.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/indicator_selector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/pic_01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/pic_02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/pic_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/pic_04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/pic_05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/pic_06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/pic_07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/pic_08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/pic_09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/pic_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/shape_oval_red.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/skirt01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/skirt02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/skirt03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/skirt04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/skirt05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/skirt06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/skirt07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/skirt08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/skirt09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/skirt10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/skirt11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/skirt12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/skirt13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/skirt14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/skirt15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/skirt16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/skirt17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/skirt18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/skirt19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/skirt20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/skirt21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/skirt22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/skirt23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/swich_background_off.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/swich_background_on.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/swich_circle_off.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/swich_circle_on.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/swith_background_selector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/swith_circle_selector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/tab_bg_normal1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/tab_bg_selected1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/tab_bg_selector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/tab_first_normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/tab_first_pressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/tab_first_selector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/tab_second_normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/tab_second_pressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/tab_second_selector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/tab_text_selector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/tab_third_normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/tab_third_pressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/tab_third_selector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/toolbar_text_selector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/layout/activity_first.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/layout/activity_login.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/layout/activity_login_forget.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/layout/activity_register.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/layout/activity_search_result.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/layout/activity_tab_host.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/layout/banner_pager.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/layout/dialog_date.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/layout/item_dropdown.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/layout/item_grid.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/layout/item_linear.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/layout/item_select.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/layout/item_staggered.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/layout/item_tabbar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/menu/menu_cart.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/menu/menu_detail.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/menu/menu_goods.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/menu/menu_home.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/menu/menu_null.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/menu/menu_overflow.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/menu/menu_search.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/xml/searchable.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication6/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication7/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication9/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApplication5/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyApplication5/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApplication5/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyApplication5/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApplication6/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyApplication6/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApplication6/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyApplication6/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApplication7/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyApplication7/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApplication7/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyApplication7/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApplication9/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/MyApplication9/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApplication9/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyApplication9/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApplication9/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyApplication9/.idea/misc.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ljkVMQOHfiqCo1beEMcbtWrqrZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="settings.editor.selected.configurable" value="http.certificates" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4017a96-e17a-4ed4-a64b-9c129c3ce966" name="Default Changelist" comment="" />
+      <created>1608117912751</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608117912751</updated>
+    </task>
+    <servers />
+  </component>
+</project>
